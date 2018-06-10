@@ -1,5 +1,5 @@
 ### Rust Step by Step
 
-**Learning repository**
+*Learning repository*
 
-__In development... ;)__
+_In development... ;)_
